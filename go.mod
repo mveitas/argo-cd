@@ -61,11 +61,11 @@ require (
 	github.com/undefinedlabs/go-mpatch v1.0.6
 	github.com/vmihailenco/msgpack/v5 v5.1.0 // indirect
 	github.com/yuin/gopher-lua v0.0.0-20190115140932-732aa6820ec4
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
+	golang.org/x/crypto v0.1.0
 	golang.org/x/exp v0.0.0-20200821190819-94841d0725da // indirect
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a
 	google.golang.org/grpc v1.33.1
 	gopkg.in/go-playground/webhooks.v5 v5.11.0
